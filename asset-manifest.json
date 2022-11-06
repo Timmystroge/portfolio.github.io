@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "//timmystroge.github.io/portfolio.github.io/static/css/main.ceaa7ec8.css",
+    "main.js": "//timmystroge.github.io/portfolio.github.io/static/js/main.2a7fbcd9.js",
+    "static/media/profileImg.jpg": "//timmystroge.github.io/portfolio.github.io/static/media/profileImg.5009c9c4d143c7e689f1.jpg",
+    "static/media/profilepic.png": "//timmystroge.github.io/portfolio.github.io/static/media/profilepic.6877431abdfcd9816c96.png",
+    "static/media/web_management.svg": "//timmystroge.github.io/portfolio.github.io/static/media/web_management.e0f7595ce88a19cf85115ac5eb318fd8.svg",
+    "static/media/web_development.svg": "//timmystroge.github.io/portfolio.github.io/static/media/web_development.2e5a86e56895d7a6042ce831fd6359eb.svg",
+    "static/media/react.svg": "//timmystroge.github.io/portfolio.github.io/static/media/react.d9ae6f722679b9a7bba83d0a9317f073.svg",
+    "static/media/responsivedesign.svg": "//timmystroge.github.io/portfolio.github.io/static/media/responsivedesign.bae6839cdf03c888fe9c5212c42b1c49.svg",
+    "static/media/call.svg": "//timmystroge.github.io/portfolio.github.io/static/media/call.f76e96c11494d820374258035e67e2be.svg",
+    "static/media/php.svg": "//timmystroge.github.io/portfolio.github.io/static/media/php.905aa3614a8353fbb79fb3392227b2f0.svg",
+    "static/media/mail.svg": "//timmystroge.github.io/portfolio.github.io/static/media/mail.e3230e650a3437bb849d85f120171322.svg",
+    "static/media/twitter.svg": "//timmystroge.github.io/portfolio.github.io/static/media/twitter.0ae9e4ff9d98df4276bad850c6427ecd.svg",
+    "static/media/js.svg": "//timmystroge.github.io/portfolio.github.io/static/media/js.ea997e7bf2021402ba0aff7ba057d555.svg",
+    "static/media/linkedin.svg": "//timmystroge.github.io/portfolio.github.io/static/media/linkedin.d86afe18426be76d89d07901c1247af6.svg",
+    "index.html": "//timmystroge.github.io/portfolio.github.io/index.html",
+    "static/media/html.svg": "//timmystroge.github.io/portfolio.github.io/static/media/html.24e2527c5f60ed2a48eb0397acc20d3b.svg",
+    "static/media/css.svg": "//timmystroge.github.io/portfolio.github.io/static/media/css.655a2580adb12c9861a5e6bf31060d8f.svg",
+    "main.ceaa7ec8.css.map": "//timmystroge.github.io/portfolio.github.io/static/css/main.ceaa7ec8.css.map",
+    "main.2a7fbcd9.js.map": "//timmystroge.github.io/portfolio.github.io/static/js/main.2a7fbcd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceaa7ec8.css",
+    "static/js/main.2a7fbcd9.js"
+  ]
+}
